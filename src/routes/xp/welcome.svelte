@@ -26,7 +26,7 @@
 
         fallback_timer = setTimeout(() => {
             self.destroy();
-        }, 7000)
+        }, 3000)
 
     })
 

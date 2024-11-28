@@ -38,12 +38,6 @@
             path: './programs/media_player_classic.svelte',
             
         },
-        {
-            name: 'Foxit Reader',
-            icon: '/images/xp/icons/FoxitReader.png',
-            path: './programs/foxit_reader.svelte',
-            
-        },
         
        
         
@@ -102,11 +96,6 @@
             path: './programs/app_installer.svelte'
         },
 		  null,
-		{
-    name: 'Discord Community',
-    icon: '/images/xp/icons/discord.png',
-    newLink: 'https://discord.gg/9dFx9kKQS6'
-},
 
 		
       
@@ -114,7 +103,7 @@
         {
             name: 'Help and Support',
             icon: '/images/xp/icons/HelpandSupport.png',
-            link: 'https://xptour.neocities.org/'
+            link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
         },
         {
             name: 'Run...',
@@ -394,12 +383,6 @@
             name: 'Oracle VirtualBox',
             icon: '/images/xp/icons/Collab.png',
             path: './programs/collab.svelte',
-            
-        },
-        {
-            name: 'Foxit Reader',
-            icon: '/images/xp/icons/FoxitReader.png',
-            path: './programs/foxit_reader.svelte',
             
         },
         {
