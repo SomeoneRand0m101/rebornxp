@@ -386,12 +386,6 @@
             
         },
         {
-            name: 'Flash Player',
-            icon: '/images/xp/icons/FlashPlayer.png',
-            path: './programs/flash_player.svelte',
-            
-        },
-        {
             name: 'Python REPL',
             icon: '/images/xp/icons/Python.png',
             path: './programs/webapp.svelte',

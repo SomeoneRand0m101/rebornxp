@@ -164,12 +164,6 @@ let winrar_program = {
   name: 'WinRAR'
 }
 
-let flash_player_program = {
-  path: './programs/flash_player.svelte',
-  icon: '/images/xp/icons/FlashPlayer.png',
-  name: 'Flash Player'
-}
-
 export let doctypes = {
   '.wav': [mpc_program],
   '.mp4': [mpc_program],
@@ -200,7 +194,6 @@ export let doctypes = {
   '.rar': [winrar_program],
   '.tar': [winrar_program],
   '.7z': [winrar_program],
-  '.swf': [flash_player_program]
 }
 
 export let icons = {

@@ -438,24 +438,6 @@
     "sort_option": 0,
     "sort_order": 0
   },
-  "2RGmk4KccAD9K2D4ihfNoa": {
-    "id": "2RGmk4KccAD9K2D4ihfNoa",
-    "type": "file",
-    "basename": "Flash Player",
-    "name": "Flash Player.exe",
-    "storage_type": "fake",
-    "url": "./programs/flash_player.svelte",
-    "ext": ".exe",
-    "parent": "nt1QdU9Sws26H26UNQZcQU",
-    "size": 31631,
-    "executable": true,
-    "icon": "/images/xp/icons/FlashPlayer.png",
-    "children": [],
-    "date_created": 1676799354180,
-    "date_modified": 1676799354180,
-    "sort_option": 0,
-    "sort_order": 0
-  },
   "qjT2imnTvaaCrLmjmhS2tz": {
     "id": "qjT2imnTvaaCrLmjmhS2tz",
     "type": "file",
